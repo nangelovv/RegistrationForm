@@ -1,0 +1,7 @@
+cryptography==3.4.7
+uvicorn==0.22.0
+fastapi==0.103.2
+SQLAlchemy==2.0.17
+PyJWT==2.7.0
+psycopg2-binary==2.9.7
+python-multipart==0.0.6
